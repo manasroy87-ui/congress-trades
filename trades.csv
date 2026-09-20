@@ -1,1 +1,77 @@
-Chamber,Filing Date,Transaction Date,Politician,Ticker,Asset Description,Type,Amount,Owner
+Chamber,Filing Date,Transaction Date,Politician,District,Ticker,Asset Description,Type,Amount,DocID,Filing Link
+House,9/5/2026,08/26/2026,David J. Taylor,OH02,AEP,"American Electric Power Company, P 08/26/2026 09/03/2026 $1,",Purchase,"$1,001 - $15,000",20035392,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035392.pdf
+House,9/5/2026,08/26/2026,David J. Taylor,OH02,AMGN,"Amgen Inc. - Common Stock (AMGN) S 08/26/2026 09/03/2026 $1,",Sale,"$1,001 - $15,000",20035392,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035392.pdf
+House,9/5/2026,08/26/2026,David J. Taylor,OH02,AVGO,"Broadcom Inc. - Common Stock P 08/26/2026 09/03/2026 $1,001 ",Purchase,"$1,001 - $15,000",20035392,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035392.pdf
+House,9/5/2026,08/26/2026,David J. Taylor,OH02,FITB,Fifth Third Bancorp - Common Stock P 08/26/2026 09/03/2026 $,Purchase,"$1,001 - $15,000",20035392,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035392.pdf
+House,9/5/2026,08/26/2026,David J. Taylor,OH02,MSFT,,Sale,"$1,001 - $15,000",20035392,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035392.pdf
+House,9/5/2026,08/26/2026,David J. Taylor,OH02,VRTX,Vertex Pharmaceuticals Incorporated S 08/26/2026 09/03/2026 ,Sale,"$1,001 - $15,000",20035392,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035392.pdf
+House,9/2/2026,9/2/2026,Tony Wied,WI08,--,See PDF Report,PTR Filing,Disclosed in PDF,9116326,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116326.pdf
+House,9/17/2026,09/08/2026,David J. Taylor,OH02,IBP,"Installed Building Products, Inc. P 09/08/2026 09/09/2026 $1",Purchase,"$1,001 - $15,000",20035471,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035471.pdf
+House,9/17/2026,09/08/2026,David J. Taylor,OH02,PG,,Purchase,"$1,001 - $15,000",20035471,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035471.pdf
+House,8/20/2026,08/11/2026,David J. Taylor,OH02,GOOGL,"Alphabet Inc. - Class A Common P 08/11/2026 08/20/2026 $1,00",Purchase,"$1,001 - $15,000",20035289,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035289.pdf
+House,8/20/2026,08/14/2026,David J. Taylor,OH02,IBP,"Installed Building Products, Inc. P 08/14/2026 08/20/2026 $1",Purchase,"$1,001 - $15,000",20035289,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035289.pdf
+House,8/20/2026,08/11/2026,David J. Taylor,OH02,MSFT,,Sale,"$15,001 - $50,000",20035289,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035289.pdf
+House,8/20/2026,08/11/2026,David J. Taylor,OH02,PG,Procter & Gamble Company (PG) [ST] P 08/11/2026 08/20/2026 $,Purchase,"$1,001 - $15,000",20035289,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035289.pdf
+House,8/18/2026,8/18/2026,Tony Wied,WI08,--,See PDF Report,PTR Filing,Disclosed in PDF,9116308,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116308.pdf
+House,8/13/2026,01/09/2026,Shri Thanedar,MI13,AAPL,Apple Inc. - Common Stock (AAPL) S (partial) 01/09/2026 01/0,Sale,,20033910,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033910.pdf
+House,8/13/2026,10/21/2025,Shri Thanedar,MI13,MSTR,,Sale,"$15,001 - $50,000",20033910,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033910.pdf
+House,8/13/2026,07/28/2025,Derek Tran,CA45,LTC,"Litecoin (LTC) [CT] S 07/28/2025 07/21/2026 $1,001 - $15,000",Sale,"$1,001 - $15,000",20035183,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035183.pdf
+House,7/8/2026,01/07/2025,Ritchie John Torres,NY15,MCK,2000143044 McKesson Corporation Common P 01/07/2025 08/01/20,Purchase,"$1,001 - $15,000",20034224,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034224.pdf
+House,7/24/2026,7/24/2026,Tony Wied,WI08,--,See PDF Report,PTR Filing,Disclosed in PDF,9116260,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116260.pdf
+House,7/2/2026,06/22/2026,Ann Wagner,MO02,--,JT KKR Private Equity Conglomerate P 06/22/2026 06/23/2026 $,Purchase,,20034915,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034915.pdf
+House,7/2/2026,06/10/2026,Ann Wagner,MO02,--,JT,Sale,"$15,001 - $50,000",20034915,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034915.pdf
+House,7/19/2026,06/15/2026,William R. Timmons,SC04,SPCX,"SpaceX (SPCX) [OT] P 06/15/2026 06/17/2026 $50,001 - $100,00",Purchase,"$50,001 - $100,000",20022577,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20022577.pdf
+House,7/19/2026,06/15/2026,William R. Timmons,SC04,SPCX,"2000164887 SpaceX (SPCX) [OT] P 06/15/2026 06/22/2026 $50,00",Purchase,"$50,001 - $100,000",20035042,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035042.pdf
+House,7/14/2026,06/17/2026,Debbie Wasserman Schultz,FL25,ICHR,"Ichor Holdings - Ordinary Shares S 06/17/2026 07/14/2026 $2,",Sale,,20034999,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034999.pdf
+House,7/13/2026,07/13/2026,Rudy C. Yakym,IN02,--,"Treasury Bill (3-Month, Matures P 07/13/2026 07/13/2026 $15,",Purchase,,20034984,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034984.pdf
+House,7/10/2026,06/30/2026,Robert J. Wittman,VA01,CCI,"Crown Castle Inc. Common Stock S 06/30/2026 07/02/2026 $1,00",Sale,"$1,001 - $15,000",20034916,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034916.pdf
+House,6/3/2026,02/07/2025,Tim Walberg,MI05,AMZN,"JT Amazon.com, Inc. - Common Stock P 02/07/2025 05/29/2026 $",Purchase,"$1,001 - $15,000",20034660,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf
+House,6/3/2026,02/07/2025,Tim Walberg,MI05,AAPL,JT,Purchase,"$15,001 - $50,000",20034660,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf
+House,6/3/2026,02/07/2025,Tim Walberg,MI05,BAC,"JT Bank of America Corporation P 02/07/2025 05/29/2026 $15,0",Purchase,,20034660,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf
+House,6/3/2026,02/07/2025,Tim Walberg,MI05,BA,JT,Purchase,"$15,001 - $50,000",20034660,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf
+House,6/3/2026,02/07/2025,Tim Walberg,MI05,CAT,"JT Caterpillar, Inc. Common Stock (CAT) P 02/07/2025 05/29/2",Purchase,,20034660,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf
+House,6/3/2026,02/07/2025,Tim Walberg,MI05,CVX,JT,Purchase,"$15,001 - $50,000",20034660,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf
+House,6/3/2026,02/07/2025,Tim Walberg,MI05,ETN,"JT Eaton Corporation, PLC Ordinary P 02/07/2025 05/29/2026 $",Purchase,,20034660,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf
+House,6/3/2026,02/07/2025,Tim Walberg,MI05,--,JT,Purchase,,20034660,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf
+House,6/3/2026,02/07/2025,Tim Walberg,MI05,FSSL,JT FS Specialty Lending Fund Common P 02/07/2025 05/29/2026 ,Purchase,"$1,001 - $15,000",20034660,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf
+House,6/3/2026,06/01/2026,Tim Walberg,MI05,FSSL,JT,Sale,"$15,001 - $50,000",20034660,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf
+House,6/3/2026,02/07/2025,Tim Walberg,MI05,J,JT Jacobs Solutions Inc. Common Stock P 02/07/2025 05/29/202,Purchase,,20034660,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf
+House,6/3/2026,02/07/2025,Tim Walberg,MI05,LHX,JT,Purchase,"$15,001 - $50,000",20034660,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf
+House,6/3/2026,02/07/2025,Tim Walberg,MI05,LMT,"JT Lockheed Martin Corporation P 02/07/2025 05/29/2026 $1,00",Purchase,"$1,001 - $15,000",20034660,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf
+House,6/3/2026,02/07/2025,Tim Walberg,MI05,UA,JT,Purchase,"$1,001 - $15,000",20034660,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf
+House,6/3/2026,02/10/2026,Tim Walberg,MI05,UA,"JT Under Armour, Inc. Class C Common S 02/10/2026 05/29/2026",Sale,"$1,001 - $15,000",20034660,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf
+House,6/3/2026,02/07/2025,Tim Walberg,MI05,WFC,JT,Purchase,"$15,001 - $50,000",20034660,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf
+House,6/17/2026,06/16/2026,Matthew Robert Van Epps,TN07,GOOGL,"Alphabet Inc. - Class A Common S 06/16/2026 06/17/2026 $1,00",Sale,"$1,001 - $15,000",20034807,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034807.pdf
+House,6/17/2026,06/16/2026,Matthew Robert Van Epps,TN07,AMZN,,Sale,"$1,001 - $15,000",20034807,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034807.pdf
+House,6/17/2026,06/16/2026,Matthew Robert Van Epps,TN07,AAPL,"Apple Inc. - Common Stock (AAPL) S 06/16/2026 06/17/2026 $1,",Sale,"$1,001 - $15,000",20034807,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034807.pdf
+House,6/17/2026,06/16/2026,Matthew Robert Van Epps,TN07,XOM,,Sale,"$1,001 - $15,000",20034807,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034807.pdf
+House,6/17/2026,06/16/2026,Matthew Robert Van Epps,TN07,GE,"GE Aerospace Common Stock (GE) S 06/16/2026 06/17/2026 $1,00",Sale,"$1,001 - $15,000",20034807,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034807.pdf
+House,6/17/2026,06/16/2026,Matthew Robert Van Epps,TN07,GEV,,Sale,"$1,001 - $15,000",20034807,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034807.pdf
+House,6/17/2026,06/16/2026,Matthew Robert Van Epps,TN07,INTC,"Intel Corporation - Common Stock S 06/16/2026 06/17/2026 $1,",Sale,"$1,001 - $15,000",20034807,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034807.pdf
+House,6/17/2026,06/16/2026,Matthew Robert Van Epps,TN07,IBM,,Sale,"$1,001 - $15,000",20034807,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034807.pdf
+House,6/17/2026,06/16/2026,Matthew Robert Van Epps,TN07,META,"Meta Platforms, Inc. - Class A S 06/16/2026 06/17/2026 $1,00",Sale,"$1,001 - $15,000",20034807,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034807.pdf
+House,6/17/2026,06/16/2026,Matthew Robert Van Epps,TN07,MSFT,,Sale,"$1,001 - $15,000",20034807,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034807.pdf
+House,6/17/2026,06/16/2026,Matthew Robert Van Epps,TN07,NVDA,NVIDIA Corporation - Common Stock S 06/16/2026 06/17/2026 $1,Sale,"$1,001 - $15,000",20034807,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034807.pdf
+House,6/17/2026,06/16/2026,Matthew Robert Van Epps,TN07,LUV,,Sale,"$1,001 - $15,000",20034807,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034807.pdf
+House,6/17/2026,06/16/2026,Matthew Robert Van Epps,TN07,TPR,"Tapestry, Inc. Common Stock (TPR) S 06/16/2026 06/17/2026 $1",Sale,,20034807,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034807.pdf
+House,6/1/2026,02/26/2025,Daniel Webster,FL11,REXR,"Rexford Industrial Realty, Inc. S 02/26/2025 03/01/2025 $15,",Sale,,20034562,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034562.pdf
+House,5/5/2026,5/5/2026,Tony Wied,WI08,--,See PDF Report,PTR Filing,Disclosed in PDF,9115816,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115816.pdf
+House,5/4/2026,04/28/2026,Ann Wagner,MO02,--,"JT Ashwaubenon WI [GS] S 04/28/2026 04/28/2026 $100,001 - $2",Sale,"$100,001 - $250,000",20034462,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034462.pdf
+House,5/4/2026,05/01/2026,Ann Wagner,MO02,--,JT,Sale,"$100,001 - $250,000",20034462,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034462.pdf
+House,5/4/2026,04/29/2026,Ann Wagner,MO02,--,JT PARTNERS GROUP PRIVATE S (partial) 04/29/2026 04/30/2026 ,Sale,,20034462,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034462.pdf
+House,4/6/2026,04/06/2026,Rudy C. Yakym,IN02,--,"Treasury Bill (3-Month, Matures P 04/06/2026 04/06/2026 $15,",Purchase,,20034298,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034298.pdf
+House,4/30/2026,04/15/2026,Lori Trahan,MA03,--,SP United States Treasury Bill Zero CPN; P 04/15/2026 04/15/,Purchase,,20034414,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034414.pdf
+House,4/30/2026,7/16/2026,Lori Trahan,MA03,--,SP,Purchase,"$100,001 - $250,000",20034414,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034414.pdf
+House,4/30/2026,6/30/2027,Lori Trahan,MA03,--,SP,Purchase,"$100,001 - $250,000",20034414,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034414.pdf
+House,4/30/2026,9/30/2026,Lori Trahan,MA03,--,SP,Purchase,"$100,001 - $250,000",20034414,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034414.pdf
+House,4/30/2026,1/15/2027,Lori Trahan,MA03,--,SP,Purchase,"$250,001 - $500,000",20034414,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034414.pdf
+House,4/30/2026,5/31/2027,Lori Trahan,MA03,--,SP,Purchase,"$250,001 - $500,000",20034414,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034414.pdf
+House,3/9/2026,3/9/2026,Tony Wied,WI08,--,See PDF Report,PTR Filing,Disclosed in PDF,8221360,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/8221360.pdf
+House,1/2/2026,12/30/2031,Ann Wagner,MO02,--,JT Floyd County IN 4.00% 12/30/2031 P 12/05/2025 12/08/2025 ,Purchase,,20033718,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033718.pdf
+House,1/2/2026,1/15/2032,Ann Wagner,MO02,--,JT,Purchase,"$100,001 - $250,000",20033718,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033718.pdf
+House,1/2/2026,12/04/2025,Ann Wagner,MO02,--,JT Logan Rogersville MO Reorg No R 08 P 12/04/2025 12/05/202,Purchase,,20033718,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033718.pdf
+House,1/2/2026,12/1/2033,Ann Wagner,MO02,--,JT,Purchase,"$100,001 - $250,000",20033718,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033718.pdf
+House,1/15/2026,12/22/2025,Roger Williams,TX25,CVX,Chevron Corporation Common Stock S (partial) 12/22/2025 12/2,Sale,,20033783,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033783.pdf
+House,1/15/2026,12/22/2025,Roger Williams,TX25,FANG,,Sale,"$1,001 - $15,000",20033783,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033783.pdf
+House,1/15/2026,12/22/2025,Roger Williams,TX25,JPM,"JP Morgan Chase & Co. Common P 12/22/2025 12/22/2025 $1,001 ",Purchase,"$1,001 - $15,000",20033783,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033783.pdf
+House,1/15/2026,12/22/2025,Roger Williams,TX25,RTX,,Purchase,"$1,001 - $15,000",20033783,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033783.pdf
